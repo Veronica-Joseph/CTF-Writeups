@@ -11,5 +11,5 @@ Each writeup includes:
 ### PicoCTF
 - [Web Exploitation](./PicoCTF/WebExploitation)
   - [Easy](./PicoCTF/WebExploitation/easy)
-    - [SSTI](./PicoCTF/WebExploitation/easy/SSTI.md)
+    - [SSTI1](./PicoCTF/WebExploitation/easy/SSTI1.md)
     - [n0s4n1ty](./PicoCTF/WebExploitation/easy/n0s4n1ty.md)
