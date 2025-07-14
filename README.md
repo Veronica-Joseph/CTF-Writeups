@@ -15,3 +15,4 @@ Each writeup includes:
     - [n0s4n1ty](./PicoCTF/WebExploitation/easy/n0s4n1ty.md)
     - [head-dump](./PicoCTF/WebExploitation/easy/head-dump.md)
     - [CookieMonsterSecretRecipe](./PicoCTF/WebExploitation/easy/CookieMonsterSecretRecipe.md)
+    - [WebDecode](./PicoCTF/WebExploitation/easy/WebDecode.md)
