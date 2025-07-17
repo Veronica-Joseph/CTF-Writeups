@@ -13,7 +13,10 @@ Tools like gobuster, curl, etc.
 3. How you found the flag
 
 ## Flag
-`flag{example_flag}`
+picoCTF{UseStr0nG_h@shEs_&PaSswDs!_29028be8}
 
 ## Notes
 What you learned
+
+# Helpful Resources
+https://primer.picoctf.org/#_hashing
