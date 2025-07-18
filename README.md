@@ -16,3 +16,7 @@ Each writeup includes:
     - [head-dump](./PicoCTF/WebExploitation/easy/head-dump.md)
     - [CookieMonsterSecretRecipe](./PicoCTF/WebExploitation/easy/CookieMonsterSecretRecipe.md)
     - [WebDecode](./PicoCTF/WebExploitation/easy/WebDecode.md)
+
+- [Cryptography](./PicoCTF/Cryptography)
+  - [Easy](./PicoCTF/Cryptography/easy)
+    - [hashcrash](./PicoCTF/Cryptography/easy/hashcrash.md)
