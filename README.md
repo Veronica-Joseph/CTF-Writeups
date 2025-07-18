@@ -19,4 +19,4 @@ Each writeup includes:
 
 - [Cryptography](./PicoCTF/Cryptography)
   - [Easy](./PicoCTF/Cryptography/easy)
-    - [hashcrash](./PicoCTF/Cryptography/easy/hashcrash.md)
+    - [hashcrack](./PicoCTF/Cryptography/easy/hashcrack.md)
