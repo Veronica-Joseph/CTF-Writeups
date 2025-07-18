@@ -16,6 +16,7 @@ Find the secret stored in the server.
   ```
   <img width="901" height="113" alt="image" src="https://github.com/user-attachments/assets/8096c1d3-d253-41a5-8c21-ecacde7840be" />
 
+
 2. Identify the Hash Type
   - To crack the hash, you first need to know what type it is.
       - Run `hash-identifier` in the terminal.
@@ -24,6 +25,7 @@ Find the secret stored in the server.
       - Press Ctrl + C to exit.
       <img width="902" height="351" alt="image" src="https://github.com/user-attachments/assets/467b1afe-e047-4698-b5ec-95dac0c4993f" />
       
+
 3. Crack the Hash
    - Save the hash in a text file:
     ```
@@ -52,9 +54,11 @@ Find the secret stored in the server.
      
       <img width="896" height="188" alt="image" src="https://github.com/user-attachments/assets/183cabc8-3857-468f-92cc-8698a27f2099" />
 
+
 4. Submit the Password
    Paste the cracked password back into the server prompt.
   <img width="907" height="183" alt="image" src="https://github.com/user-attachments/assets/a9d75067-14b4-4449-a8e0-6f01776b5d27" />
+
 
 6. Repeat for All Hashes
    Repeat steps 2 to 4 for each new hash.
