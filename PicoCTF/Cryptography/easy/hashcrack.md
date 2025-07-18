@@ -104,6 +104,6 @@ picoCTF{UseStr0nG_h@shEs_&PaSswDs!_29028be8}
 
 
 # Helpful Resources
-What is Hash : https://primer.picoctf.org/#_hashing
-Hash-identifier : https://github.com/blackploit/hash-identifier
-How to decrypt Hash using John the ripper : https://www.youtube.com/shorts/9-YfKU45qng
+- What is Hash : https://primer.picoctf.org/#_hashing
+- Hash-identifier : https://github.com/blackploit/hash-identifier
+- How to decrypt Hash using John the ripper : https://www.youtube.com/shorts/9-YfKU45qng
